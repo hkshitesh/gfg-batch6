@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int A=10;
+int B=5;
+int sum=A+B;
+int sub=A-B;
+int mul=A*B;
+int div=A/B;
+
+cout<<sum<<sub<<mul<<div<<endl;
+
+return 0;
+}
